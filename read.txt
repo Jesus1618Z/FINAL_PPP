@@ -1,0 +1,11 @@
+nodemon: para reiniciar en cada cambio
+ts-node : para mandar llamar tyscript 
+mandamos llamar al index.ts modificando el script "dev"
+mongo = mongodb Atlas (Gratis)
+
+MONGO:
+user : jzamudio
+pass : 6FHLOb6uKhB4zLOr 
+LINK CONNECTION
+mongodb+srv://jzamudio:6FHLOb6uKhB4zLOr@cluster0.hx1jx.mongodb.net/
+
